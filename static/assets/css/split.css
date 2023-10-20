@@ -271,7 +271,7 @@ body.page-template-page-fullsingle-split p {
   }
 }
 .fs-split .split-content .split-content-vertically-center {
-  padding: 80px;
+  padding: 40px;
   max-width: 640px;
   margin-top: auto;
   margin-bottom: auto;
@@ -297,8 +297,8 @@ body.page-template-page-fullsingle-split p {
   font-weight: 400;
   text-transform: uppercase;
   font-size: 24px;
-  line-height: 16px;
-  margin-bottom: 40px;
+  line-height: 25px;
+  margin-bottom: 5px;
   letter-spacing: 0.4px;
   color: #2e7f85;
 }
@@ -307,8 +307,8 @@ body.page-template-page-fullsingle-split p {
 }
 
 .split-bio {
-  padding: 38px 0 40px 0;
-  font-size: 20px;
+  padding: 20px 0 40px 0;
+  font-size: 15px;
   line-height: 26px;
   font-family: "Lora", serif;
 }
